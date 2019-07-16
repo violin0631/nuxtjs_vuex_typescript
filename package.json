@@ -1,0 +1,27 @@
+{
+  "name": "vuex_store_example",
+  "version": "1.0.0",
+  "description": "My riveting Nuxt.js project",
+  "author": "Pham Thi Nhung",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/vuetify": "0.5.5",
+    "nuxt": "^2.0.0",
+    "ts-node": "^8.3.0",
+    "vue-property-decorator": "^8.2.1",
+    "vuex-class-component": "^1.6.0"
+  },
+  "devDependencies": {
+    "@nuxt/typescript": "^2.8.1",
+    "nodemon": "^1.18.9",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
